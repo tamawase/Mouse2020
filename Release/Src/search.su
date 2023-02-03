@@ -1,0 +1,12 @@
+../Src/search.c:219:6:adv_pos	0	static
+../Src/search.c:264:6:map_Init	8	static
+../Src/search.c:18:6:search_init	8	static
+../Src/search.c:295:6:write_map	4	static
+../Src/search.c:348:6:turn_dir	0	static
+../Src/search.c:361:6:make_smap	48	static
+../Src/search.c:428:6:make_route	48	static
+../Src/search.c:244:6:conf_route	8	static
+../Src/search.c:142:6:searchB	40	static
+../Src/search.c:44:6:searchA	40	static
+../Src/search.c:515:6:store_map_in_eeprom	24	static
+../Src/search.c:534:6:load_map_from_eeprom	24	static
