@@ -1,5 +1,5 @@
 //Windowsで追記（２０２３，２，５）
-
+//Macで追記（2023、2、21）
 
 /* USER CODE BEGIN Header */
 
