@@ -1,5 +1,10 @@
 //Windowsで追記（２０２３，２，５）
+<<<<<<< HEAD
 //Macで追記（2023、2、21）
+=======
+//WindowsCubeIDEで追記（２０２３，２，９）
+
+>>>>>>> 6d166eb693e3f6a6435664450797514ab6aca0d2
 
 /* USER CODE BEGIN Header */
 
